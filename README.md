@@ -79,11 +79,11 @@ npm install
 
 ```bash
 cd server
-npm run dev   # for development (with nodemon)
+npm run server   # for development (with nodemon)
 npm start     # for production
 ```
 
-Default: [http://localhost:5000](http://localhost:5000)
+Default: [http://localhost:5000](http://localhost:4000)
 
 ### Start the Client
 
